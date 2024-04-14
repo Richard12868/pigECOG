@@ -8,6 +8,8 @@ model_lstm--模型架构
 
 train_model--模型训练与测试
 
+model_lstm.pth--模型权重
+
 对比图--蓝线为实际值，红线为预测值
 
 
